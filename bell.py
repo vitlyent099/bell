@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com - Ring The Bell!')
-root.iconbitmap('c:/gui/codemy.ico')
+# root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x500")
 thing = 500
 print(f"{thing:04d}")
